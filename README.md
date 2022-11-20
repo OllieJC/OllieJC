@@ -1,7 +1,5 @@
 ## Welcome to my (OllieJC) GitHub :wave:
 
-Here are some links to my social profiles and apps:
-
 You can find me at:
 
  - [Twitter](https://twitter.com/4f4a43)

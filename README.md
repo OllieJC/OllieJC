@@ -4,8 +4,9 @@ Note: all links below and comments in my socials are my own, unless otherwise me
 
  - [Twitter @4f4a43](https://twitter.com/4f4a43)
  - <a rel="me" href="https://infosec.exchange/@olliejc">Mastodon infosec.exchange/@olliejc</a>
- - [Blog](https://blog.olliejc.uk)
- - [Proposed standard - scantxt.org](https://www.scantxt.org)
+ - [Proposed standard - Quick Trusted Response](https://qtrcodes.org)
+ - [Proposed standard - scantxt](https://www.scantxt.org)
+ - [Proof of concept - justselfsigned.org](https://justselfsigned.org)
  - [App - findsecuritycontacts.com](https://findsecuritycontacts.com)
  - [App - tbat.app](https://tbat.app)
- - [Website - justselfsigned.org](https://justselfsigned.org)
+ 

@@ -1,6 +1,6 @@
 ## Welcome to my (OllieJC) GitHub :wave:
 
-Note: all links below and comments in my socials are my own, unless otherwise mentioned! You can find out about the organisation I work for its projects and services at [github.com/alphagov](https://github.com/alphagov) or [github.com/govuk-digital-backbone](https://github.com/govuk-digital-backbone).
+Note: all links below and comments in my socials are my own, unless otherwise mentioned! You can find out about the organisation I work for and their projects and services at [github.com/alphagov](https://github.com/alphagov) and [github.com/govuk-digital-backbone](https://github.com/govuk-digital-backbone).
 
  - [BlueSky @olliejc.uk](https://bsky.app/profile/olliejc.uk)
  - <a rel="me" href="https://infosec.exchange/@olliejc">Mastodon infosec.exchange/@olliejc</a>
